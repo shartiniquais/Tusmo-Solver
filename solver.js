@@ -1,6 +1,6 @@
 async function chargerMots() {
     // Récupérer tous les mots de mots.txt, ils sont déjà triés, mis en majuscules et sans accents
-    let response = await fetch("http://127.0.0.1:5500/mots.txt");
+    let response = await fetch("http://127.0.0.1:5500/Tusmo-Solver/mots.txt");
     let text = await response.text();
     const mots = text.split("\n");
 
