@@ -1,5 +1,5 @@
 # Tusmo-Solver
-Code javascript pour trouver le résultat a un tusmo : https://www.tusmo.xyz
+Code javascript pour trouver le résultat à un tusmo : https://www.tusmo.xyz
 
 Le fichier mots.txt contient tous les mots autorisés au Scrabble.
 
